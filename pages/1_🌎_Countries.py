@@ -5,18 +5,19 @@ import plotly.graph_objects as go
 import datetime as dt
 from plotly.subplots import make_subplots
 # bibliotecas necessárias
-import folium
+
 import pandas as pd
 import numpy as np
 import math
 import inflection
 import streamlit as st
+import folium
 import re
 import csv
 import math
-from folium.plugins import MarkerCluster
-from streamlit_folium import folium_static
 from streamlit_folium import st_folium
+from streamlit_folium import folium_static
+from folium.plugins import MarkerCluster
 from PIL import Image
 from datetime import datetime 
 from itertools import count
