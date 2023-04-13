@@ -1,6 +1,7 @@
 # cuisines_around_world
 <p>this repository was made for evaluation of restaurants and types of cuisines.</p>
 <p>'Cuisine Around the World' é uma plataforma  de análise sobre culinária e restaurantes pelo mundo. Ou seja, é uma ferramenta que facilita a pesquisa sobre tipos de culinária e restaurantes em vários países. Essa plataforma foi desenvolvida para atender a empresa Fome Zero.</p>
+<p>Este projeto encontra-se disponível on-line no link: https://eezzionn-cuisines-around-world.streamlit.app/</p>
 
 # 1. Problema de negócio
 A empresa Fome Zero é uma marketplace de restaurantes. Ou seja, seu core business é facilitar o encontro e negociações de clientes e restaurantes. Os restaurantes fazem o cadastro dentro da plataforma da Fome Zero, que disponibiliza informações como endereço, tipo de culinária servida, se possui reservas, se faz entregas, preço do prato servido e também uma nota de avaliação dos serviços e produtos dos restaurantes, dentre outras informações.
